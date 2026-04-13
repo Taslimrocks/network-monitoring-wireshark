@@ -12,6 +12,8 @@ This project demonstrates network traffic analysis using Wireshark and basic Lin
 
 ---
 
+
+
 ## 🔍 DNS Packet Analysis
 
 ### Observations
@@ -28,6 +30,7 @@ DNS (Domain Name System) is responsible for translating domain names into IP add
 - Vulnerable to DNS spoofing attacks  
 
 ---
+
 
 ## 🌍 HTTP Packet Analysis
 
@@ -46,6 +49,7 @@ HTTP protocol does not encrypt data, making it possible to view transmitted info
 
 ---
 
+
 ## 🔗 TCP Packet Analysis
 
 ### Observations
@@ -62,6 +66,7 @@ TCP ensures reliable communication by establishing a connection before data tran
 - Useful in detecting abnormal traffic patterns  
 
 ---
+
 
 ## 🖥️ Linux Network Analysis
 
